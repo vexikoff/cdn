@@ -1,4 +1,4 @@
-GAMES_POOL = [
+[
     {"folder": "Where Winds Meet", "exe": "wwm.exe"},
     {"folder": "Marvel Rivals", "exe": "marvel_rivals.exe"},
     {"folder": "Delta Force", "exe": "delta_force.exe"},
