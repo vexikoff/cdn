@@ -1,5 +1,13 @@
 [
     {"folder": "Where Winds Meet", "exe": "wwm.exe"},
+    {"folder": "Subnautica", "exe": "Subnautica.exe"},
+    {"folder": "CarX Drift Racing", "exe": "CarXDriftRacing.exe"},
+    {"folder": "CarX Drift Racing Online", "exe": "CarXDriftRacingOnline.exe"},
+    {"folder": "CarX Drift Racing 2", "exe": "CarXDriftRacing2.exe"},
+    {"folder": "CarX Street", "exe": "CarXStreet.exe"},
+    {"folder": "CarX Rally", "exe": "CarXRally.exe"},
+    {"folder": "Forza Horizon 4", "exe": "ForzaHorizon4.exe"},
+    {"folder": "Forza Horizon 6", "exe": "ForzaHorizon6.exe"},
     {"folder": "Marvel Rivals", "exe": "marvel_rivals.exe"},
     {"folder": "Delta Force", "exe": "delta_force.exe"},
     {"folder": "Dune Awakening", "exe": "dune_awakening.exe"},
