@@ -639,5 +639,7 @@
     {"folder": "Norco", "exe": "Norco.exe"},
     {"folder": "Citizen Sleeper", "exe": "CitizenSleeper.exe"},
     {"folder": "Citizen Sleeper 2", "exe": "CitizenSleeper2.exe"},
-    {"folder": "Pentiment", "exe": "Pentiment.exe"}
+    {"folder": "Pentiment", "exe": "Pentiment.exe"},
+    {"folder": "World_of_Tanks", "exe": "WorldOfTanks.exe"},
+    {"folder": "Duet Night Abyss", "exe": "EM-Win64-Shipping.exe"}
 ]
