@@ -1,8 +1,12 @@
 {
   "mainrules": {
-    "title":"Main",
-    "description":"Main Rules And Styles",
-    "prev":"https://cdn.vexikoff.xyz/fat/main/prev.png",
-    "md":"https://cdn.vexikoff.xyz/fat/main/markdown.md"
+    "title": "Main",
+    "description": "Main Rules And Styles",
+    "preview": "https://cdn.vexikoff.xyz/fat/main/prev.png",
+    "1": {
+        "title": "Rules",
+        "md": "https://cdn.vexikoff.xyz/fat/main/markdown.md" 
+      }
+    }
   }
 }
