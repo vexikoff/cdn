@@ -6,6 +6,14 @@
     "1": {
         "title": "Rules",
         "md": "https://cdn.vexikoff.xyz/fat/main/markdown.md" 
+    },
+    "2": {
+        "title": "Values",
+        "md": "https://cdn.vexikoff.xyz/fat/main/markdown.md" 
+    },
+    "3": {
+        "title": "License",
+        "md": "https://cdn.vexikoff.xyz/fat/main/markdown.md" 
     }
   }
 }
